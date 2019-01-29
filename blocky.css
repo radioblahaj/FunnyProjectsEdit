@@ -47,7 +47,21 @@
     flex-direction: row-reverse;
 }
 
+.scratchCategoryMenu {
+    width: 100%;
+    height: inherit;
+}
+.scratchCategoryItemBubble {
+    display: inline-block;
+    width: 8rem;
+    height: 10rem;
+}
 
+/* EXPIREMENTAL STUFF (might be broken) */
+
+/* block sidebar start */
+
+/*
 
 .blocks_blocks_C530M .blocklyToolboxDiv {
     height: 150px !important;
@@ -59,7 +73,7 @@
 }
 
 .scratchCategoryMenu {
-    width: 10%;
+    width: 100%;
     height: inherit;
 }
 
